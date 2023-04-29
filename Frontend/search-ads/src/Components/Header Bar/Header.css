@@ -1,0 +1,10 @@
+.header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    font-size: 40px;
+    font-family: "Josefin Sans";
+}
